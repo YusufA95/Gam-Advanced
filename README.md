@@ -37,4 +37,4 @@ Email Delegation
 To grant one user (delegate) the ability to access and manage another user's email account, facilitating teamwork or ensuring continuity during absences:
 
 
-gam user delegateduser@gmail.com add delegate useraccount@gmail.com
+gam user delegateduser add delegate useraccount
