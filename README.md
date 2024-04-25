@@ -1,3 +1,8 @@
+### Get User  Information
+Get user information(groups,alias etc)
+
+`gam info user useraccount
+`
 ### **Suspend a User Account
 **To temporarily disable a user account, preventing the user from accessing their account until reactivation:
 
