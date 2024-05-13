@@ -24,6 +24,8 @@ To change the password for a user account, which is essential for account securi
 
 `gam update user useraccount password PasswordHere
 `
+### Show Out of Office (OOO) 
+gam user useraccount show vacation
 
 ### Set Out of Office (OOO) Auto-Reply
 To configure an automatic out-of-office reply for a user who is no longer available, ensuring that senders receive a prompt response with redirection instructions:
