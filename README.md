@@ -44,3 +44,8 @@ To grant one user (delegate) the ability to access and manage another user's ema
 
 `gam user delegateduser add delegate useraccount
 `
+### Show Delegation
+To show the delated users
+
+`gam user delegateduser show delegates
+`
